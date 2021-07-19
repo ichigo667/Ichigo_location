@@ -5,4 +5,4 @@ pour changer les vehicule du script aller dans le sv_location.lua
 et pour changer le nom du ped c'est dans le cl_location.lua 
 
 
-pour toute question contacte moi sur discord : !chigo#0477
+pour toute question contacte moi sur discord : 艾" Ichigo#0001
